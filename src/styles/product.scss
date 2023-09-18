@@ -1,0 +1,20 @@
+.product{
+    width:300px;
+    border: 1px solid;
+   margin: 20px;
+   text-align: center;
+   border-radius: 10px;
+   box-shadow: 1px 1px 8px #213456;
+    img{
+    width:80%;
+}
+.counter-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    p{
+        padding:10px ;
+    }
+}
+}
